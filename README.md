@@ -1,1 +1,2 @@
-# Loan-approval-Prediction
+The dataset includes 45,000 entries with 14 different attributes related to applicants and loans, such as age, gender, education, income, and loan amount, among others. The various steps include data preparation, exploratory data analysis, model development, training and testing, model comparison and finally choosing the right model.
+The project aims at finding the right model for the loan prediction by testing and comparing various machine learning models.
